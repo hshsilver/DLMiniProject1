@@ -1,12 +1,12 @@
-#A Repository for DL Mini-Project 1 
+# A Repository for DL Mini-Project 1 
 
-##Files
+## Files
 
  - **project1_model.ipynb**: Main code
 
  - **project1_model.pt**: Trained model
 
-##Misc
+## Misc
  - The loss plot
 ![Loss Plot](loss_plot.png)
  - The accuracy
