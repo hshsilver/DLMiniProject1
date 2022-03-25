@@ -8,5 +8,5 @@
 
 ##Misc
  - The loss plot
-![Loss Plot](/images/loss_plot.png)
+![Loss Plot](loss_plot.png)
  - The accuracy
