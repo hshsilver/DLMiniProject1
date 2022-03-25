@@ -2,7 +2,7 @@
 
 ## Files
 
- - **project1_model.ipynb**: Main code
+ - **project1_model.py**: Main code
 
  - **project1_model.pt**: Trained model
 
